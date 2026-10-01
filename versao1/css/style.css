@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(187, 178, 169);
+}
+
+h1{
+    color:rgb(12, 151, 66);
+    background-color: rgb(7, 192, 248) ;
+}
+
+.positivo{
+    color:rgb(42, 222, 42);
+    padding: 5px;
+    border: 2px solid green;
+    background-color: rgb(45, 51, 206);
+}
+
+.perigo{
+    color:rgb(18, 226, 147);
+    padding:5px;
+    border: 2px solid rgb(49, 13, 253);
+    background-color: rgb(37, 3, 129);
+}
+
+#rosa{
+    color:pink;
+    background-color: rgb(159, 20, 20);
+    padding: 5px
+    
+}
+
+.imagem{
+    width:150px;
+    height:150px;
+}
+
+.topo{
+    text-align:center;
+}
+
+.conteudo{
+    background-color: rgb(158, 32, 32);
+    border-radius: 5px;
+}

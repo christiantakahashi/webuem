@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+}
+h1{
+    color: azure;
+    border: 2px solid white;
+    background-color: rgb(68, 185, 150);
+}
+h2{
+    color: rgb(117, 192, 142);
+}
+h3{
+    color: rgb(97, 155, 116);
+}
+img{
+    width: 200px;
+}
